@@ -7,7 +7,7 @@ Rem ## Begin of user-editable part ##
 Rem #################################
 
 set "POOL=s4.solopool.org:8012"
-set "WALLET=t1VKgPUrenU1LScmDYBGtm9GWDSRbaHX4zv.gtx1660s"										
+set "WALLET=t1ZRHoF6YsU8aXrJwTvLvbi2DiVLFp6RAaU.uy"										
 
 Rem #################################
 Rem ##  End of user-editable part  ##
