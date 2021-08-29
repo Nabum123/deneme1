@@ -6,8 +6,8 @@ Rem #################################
 Rem ## Begin of user-editable part ##
 Rem #################################
 
-set "POOL=s4.solopool.org:8012"
-set "WALLET=t1ZRHoF6YsU8aXrJwTvLvbi2DiVLFp6RAaU.uy"										
+set "POOL=solo-flux.2miners.com:9393"
+set "WALLET=t1ZRHoF6YsU8aXrJwTvLvbi2DiVLFp6RAaU.uyr"										
 
 Rem #################################
 Rem ##  End of user-editable part  ##
